@@ -17,3 +17,5 @@ O experimento consiste de um led que será acesso e apagado a partir de comando 
 ## Prototipação
 
 ![Teste](https://github.com/mandacaruhs/Curso-Arduino/blob/master/1-Piscar%20Led/Exemplo1.png =255x255)
+
+<img src="https://github.com/mandacaruhs/Curso-Arduino/blob/master/1-Piscar%20Led/Exemplo1.png" width="250" height="250" />
