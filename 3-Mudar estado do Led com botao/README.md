@@ -21,5 +21,5 @@ O experimento consiste em conectar um pushbutton a um pino digital escolhido e a
 ## Prototipação
 
 <p align="center">
-  <img width="300" height="300" src="https://github.com/mandacaruhs/Curso-Arduino/blob/master/3-Mudar%20estado%20do%20Led%20com%20botao/Exemplo_3.png" >
+  <img width="706" height="300" src="https://github.com/mandacaruhs/Curso-Arduino/blob/master/3-Mudar%20estado%20do%20Led%20com%20botao/Exemplo_3.png" >
 </p>
